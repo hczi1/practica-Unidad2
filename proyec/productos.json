@@ -1,0 +1,31 @@
+{
+    "bebidas": [
+        {
+            "nombre": "Capuchino",
+            "precio": 45.0,
+            "personalizable": [
+                "extra leche",
+                "sin azúcar",
+                "tamaño grande"
+            ]
+        },
+        {
+            "nombre": "Latte",
+            "precio": 40.0,
+            "personalizable": [
+                "extra leche",
+                "tamaño grande"
+            ]
+        }
+    ],
+    "postres": [
+        {
+            "nombre": "Cheesecake",
+            "precio": 55.0
+        },
+        {
+            "nombre": "Brownie",
+            "precio": 30.0
+        }
+    ]
+}
